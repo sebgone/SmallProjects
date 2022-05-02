@@ -15,8 +15,11 @@ Supply electronics devices with stable voltage.
 ## Design:
 
 * ### Circuit Eagle schematic:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/5.%20Linear%20Regulated%20Power%20Supply/Power%20Supply%20schematic.png" width="900">
 
 * ### Circuit Eagle PCB layout:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/5.%20Linear%20Regulated%20Power%20Supply/Power%20Supply%20board.png" width="600">
 
 * ### Assembled device:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/5.%20Linear%20Regulated%20Power%20Supply/img1.jpg" width="600">
 
