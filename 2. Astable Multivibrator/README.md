@@ -15,9 +15,13 @@ The circuit can be used to continously switch output state. For example generate
 ---
 ## Design:
 * ### Circuit diagram:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/2.%20Astable%20Multivibrator/Astable%20Multivibrator%20diagram.png" width="500">
 
 * ### Circuit Eagle schematic:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/2.%20Astable%20Multivibrator/Astable%20Multivibrator%20schematic.png" width="800">
 
 * ### Circuit Eagle PCB layout:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/2.%20Astable%20Multivibrator/Astable%20Multiwibrator%20board.png" width="400">
 
 * ### Assembled device:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/2.%20Astable%20Multivibrator/Photos/img2.jpg" width="400">

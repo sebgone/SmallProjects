@@ -11,9 +11,14 @@ Led tester is a device which helps with monitoring and measuring semiconductor d
 
 ---
 ## Design:
+* ### Circuit Diagram:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/7.%20LED%20Tester/LED%20Tester%20diagram.png" width="600">
 
 * ### Circuit Eagle schematic:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/7.%20LED%20Tester/LED%20Tester%20schematic.png" width="700">
 
 * ### Circuit Eagle PCB layout:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/7.%20LED%20Tester/LED%20Tester%20board.png" width="600">
 
 * ### Assembled device:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/7.%20LED%20Tester/Photos/img2.jpg" width="600">
