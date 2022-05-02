@@ -13,9 +13,13 @@ The circuit can be used to generate specific length of square wave impulse. It i
 ---
 ## Design:
 * ### Circuit diagram:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/3.%20Monostable%20Multivibrator/Monostable%20Multivibrator%20diagram.png" width="500">
 
 * ### Circuit Eagle schematic:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/3.%20Monostable%20Multivibrator/Monostable%20Multivibrator%20schematic.png" width="800">
 
 * ### Circuit Eagle PCB layout:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/3.%20Monostable%20Multivibrator/Monostable%20Multivibrator%20board.png" width="400">
 
 * ### Assembled device:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/3.%20Monostable%20Multivibrator/Photos/img2.jpg" width="400">
