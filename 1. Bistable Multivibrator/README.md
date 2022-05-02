@@ -12,9 +12,13 @@ The circuit can be used to trigger on/off pulse to any device by two monostable 
 ---
 ## Design:
 * ### Circuit diagram:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/1.%20Bistable%20Multivibrator/Bistable%20Multivibrator%20diagram.png" width="500">
 
 * ### Circuit Eagle schematic:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/1.%20Bistable%20Multivibrator/Bistable%20Multivibrator%20schematic.png" width="800">
 
 * ### Circuit Eagle PCB layout:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/1.%20Bistable%20Multivibrator/Bistable%20Multivibrator%20board.png" width="400">
 
 * ### Assembled device:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/1.%20Bistable%20Multivibrator/Photos/img2.jpg" width="400">
