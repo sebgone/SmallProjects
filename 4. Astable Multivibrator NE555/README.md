@@ -13,6 +13,7 @@ The circuit can be used to continously switch output state. For example generate
 ---
 ## Design:
 * ### Circuit Eagle schematic:
+<img src="https://github.com/sebgone/SmallProjects/blob/main/4.%20Astable%20Multivibrator%20NE555/NE555%20Generator%20schematic.png" width="800">
 
 * ### Circuit Eagle PCB layout:
-
+<img src="https://github.com/sebgone/SmallProjects/blob/main/4.%20Astable%20Multivibrator%20NE555/NE555%20Generator%20board.png" width="500">
