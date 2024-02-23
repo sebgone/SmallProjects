@@ -1,6 +1,6 @@
 # Electronics projects view
 
-Small size electronics projects based on Eagle CAD software.
+Small size electronics projects performed during studies based on Eagle CAD software.
 
 1. [Bistable Multivibrator](https://github.com/sebgone/SmallProjects/tree/main/1.%20Bistable%20Multivibrator)
 2. [Astable Multivibrator](https://github.com/sebgone/SmallProjects/tree/main/2.%20Astable%20Multivibrator)
